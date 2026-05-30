@@ -1,6 +1,6 @@
 # ✈️ Card Slider Responsivo
 
-![Card Slider Preview](https://devdougie.github.io/card-slider-responsivo/)
+<!-- ![Card Slider Preview](https://devdougie.github.io/card-slider-responsivo/) -->
 
 > *Substitua a linha acima por um GIF ou screenshot do projeto em funcionamento para melhor apresentação.*
 
