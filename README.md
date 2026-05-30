@@ -45,7 +45,7 @@ Cada card exibe o nome da aeronave, a bandeira do país de origem e uma ficha t�
 
 ---
 
-## 🛩️ Aeronaves do Slider
+<!-- ## 🛩️ Aeronaves do Slider
 
 | Aeronave | País | Velocidade Máxima |
 |---|---|---|
@@ -55,7 +55,7 @@ Cada card exibe o nome da aeronave, a bandeira do país de origem e uma ficha t�
 | A6M Zero | 🇯🇵 Japão | 510 km/h |
 | Yak-3 | 🇷🇺 União Soviética | 650 km/h |
 
----
+--- -->
 
 ## 📂 Estrutura do Projeto
 
